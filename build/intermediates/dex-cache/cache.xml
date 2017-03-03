@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_a83935276c192798bf67f523e1aa9020a67c7b99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\opensource\Android_Grandle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_a1a34979ef1b6c996d6eaf66e071f4bb41e5b842\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32f45bd44a3e7efc235bbfed120029290f5d674a">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.stetho-stetho-1.4.2_f2c1a5cae963e40e66431ee5cb8783d397633a86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_caa5bdab4bcdf04862892bc5a20e101363fa6654\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="075f4cc0c96d9bcbd0deaa71fc7aa0d4c8a8fcde">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_afbf810fb5c78d7b94fd091d41fa9b061676200c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_8217f04f5cf8c837deb2fd801e2661132b0a2c21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_8c6f6e21165cf0aca85dfc660dc8e10b28a51cb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_34959c10feb6fbba739fe10c8d5869c517b6969a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\opensource\Android_Grandle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-cli-1.2_3c6ad95c3f6eb2a1a8ac3a415418175edee159d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="369b01f72bc7f1471f3e106dea70a05ff7128a6f">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b4556f8965abcaac4918c007a184fb00901b08ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_91a00981d39e2a8e1a19f13bd8bd09b8a0fc8d16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_bb5f864dd1b398d2aec9e2f6043e3d77a3a9da19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_2e72530377ae08547c636a5ff84fc7f0be55c909\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_b4a30c512695b75faac0252f5a9f06bf2918c266\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_2524e815829a878e2e73c1aadb227b42d0a005ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_f2071a7d17d209fb3e64b12d43f2aa9ba08acc01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_142900f8710d46b22913d532219dec5b3f049468\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\opensource\Android_SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\logonrm\AndroidStudioProjects\Torcedometro\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_af7bd68888a261fc2c58c9317371ae232b07629a\classes.dex" />
+    </item>
+
+</items>
